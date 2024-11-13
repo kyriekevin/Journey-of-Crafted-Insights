@@ -1,5 +1,5 @@
 Train:
-[[Pretrain]]  + [[CT]]  + [[SFT]]
+[[CT]]  + [[SFT]]
 
 Applications
 [[Agent]]
