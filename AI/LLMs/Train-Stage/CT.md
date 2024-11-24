@@ -141,7 +141,7 @@ LLama-Factory 目前支持deepspeed [issue](https://github.com/hiyouga/LLaMA-Fac
 
 Stage one
 warmup：在训练过程中，将学习率慢慢提高
-linear / cosine decay：维持稳定学习率，或者缓慢衰减学习率
+constant / linear / cosine decay：维持稳定学习率，或者缓慢衰减学习率
 
 Stage two
 Anneal：用小学习率学高质量数据，IFT数据，Math Code Reason数据，提升通用模型逻辑能力（刷榜必备）
