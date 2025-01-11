@@ -1,9 +1,7 @@
 ---
 tags:
-  - AI
   - llm
-  - Continue-Pretrain
-  - CT
+  - ct
 date: 2024-11-11T10:12:00
 ---
 # 背景

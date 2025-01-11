@@ -1,7 +1,6 @@
 ---
 tags:
   - llm
-  - AI
   - Agent
 date: 2024-11-04T10:16:00
 ---

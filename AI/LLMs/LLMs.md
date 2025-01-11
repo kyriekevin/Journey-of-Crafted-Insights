@@ -1,5 +1,9 @@
+Data:
+[[Selection]]
+
 Train:
 [[CT]]  + [[SFT]]
 
-Applications
+Workshop:
 [[Agent]]
+[[Merge]]

@@ -1,8 +1,7 @@
 ---
 tags:
   - llm
-  - AI
-  - Pretrain
+  - pt
 date: 2024-06-12T21:39:00
 ---
 # 背景

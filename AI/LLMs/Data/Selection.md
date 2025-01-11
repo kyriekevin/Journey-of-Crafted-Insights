@@ -3,8 +3,6 @@ tags:
   - llm
   - data
   - sft
-  - ct
-  - pretrain
 date: 2025-01-06T11:06:00
 ---
 
